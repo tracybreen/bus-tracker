@@ -8,4 +8,5 @@ blahblah keys
 realtime and stuff
 
 ## License
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
+
